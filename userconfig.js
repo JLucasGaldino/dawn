@@ -30,78 +30,35 @@ const CONFIG = new Config({
   openLastVisitedTab: false,
   tabs: [
     {
-      name: 'boards',
-      background_url: 'src/img/banners/bg-1.gif',
-      categories: [{
-        name: 'fun',
+      name: 'Myself',
+      background_url: 'src/img/banners/bg-5.webp',
+      categories: [
+      {
+        name: 'Email',
         links: [
           {
-            url: 'https://4chan.org/wsg/',
-            name: '/wsg/'
+            url: 'https://app.tuta.com/mail/',
+            name: 'Tuta'
           },
           {
-            name: '/out/',
-            url: 'https://4chan.org/out',
-            icon: 'leaf',
-            icon_color: '#64876d'
-          },
-          {
-            name: '/lit/',
-            url: 'https://4chan.org/lit/',
-            icon: 'book'
-          },
-          {
-            name: '/v/',
-            url: 'https://4chan.org/v/',
-            icon: 'device-gamepad',
-            icon_color: '#8b647b'
-          },
-          {
-            name: '/p/',
-            url: 'https://4chan.org/p/',
-            icon: 'camera'
+            url: 'https://app.simplelogin.io/dashboard/',
+            name: 'Alias'
           }
         ]
       },
       {
-        name: 'Comfy',
+        name: 'Content',
         links: [
           {
-            name: '/lounge/',
-            url: 'https://sushigirl.us/lounge/catalog.html'
+            name: 'Invidious',
+            url: 'https://invidious.lunar.icu/'
           },
           {
-            name: '/comfy/',
+            name: 'Omnivore',
             url: 'https://anon.cafe/comfy/catalog.html'
           }
         ]
       },
-      {
-        name: 'Technology',
-        links: [
-          {
-            name: '/g/',
-            url: 'https://4chan.org/g/',
-          },
-          {
-            name: '/Δ/',
-            url: 'https://archive.arisuchan.jp/%CE%94/catalog.html'
-          },
-          {
-            name: '/λ/',
-            url: 'https://www.lainchan.org/%CE%BB/catalog.html'
-          },
-          {
-            name: '/sec/',
-            url: 'https://www.lainchan.org/sec/catalog.html'
-          },
-          {
-            name: '/prog/',
-            url: 'https://boards.420chan.org/prog/',
-            icon: 'code'
-          }
-        ]
-      }
       ]
     },
     {
