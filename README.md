@@ -1,5 +1,5 @@
 # dawn (forked from b-coimbra with my custom settings)
-[https://github.com/b-coimbra/dawn](link to the original repo)
+[link to the original repo](https://github.com/b-coimbra/dawn)
 
 <p align="center">
   <img src="https://i.imgur.com/vjfMONS.png">
