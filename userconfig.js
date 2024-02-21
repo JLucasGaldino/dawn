@@ -23,7 +23,8 @@ const CONFIG = new Config({
   },
   keybindings: {
     //"t": 'todo-list',
-    "s": 'search-bar'
+    "s": 'search-bar',
+    "Numrow": 'tabs-list'
   },
   disabled: ['todo-list'],
   openLastVisitedTab: false,
