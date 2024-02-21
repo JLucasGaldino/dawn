@@ -55,7 +55,7 @@ const CONFIG = new Config({
           },
           {
             name: 'Omnivore',
-            url: 'https://omnivore.app/home'
+            url: 'https://omnivore.app/home/'
           }
         ]
       },
