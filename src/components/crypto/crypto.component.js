@@ -20,8 +20,8 @@ class Crypto extends Component {
   };
 
   defaults = {
-    currency: 'USD',
-    coin: 'BTC',
+    currency: 'EUR',
+    coin: 'XMR',
     currencySymbol: this.currencies[this.currency],
     refreshInterval: 10
   };
