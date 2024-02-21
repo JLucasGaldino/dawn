@@ -92,6 +92,7 @@ class CryptoPopup extends Component {
           <option value="ADA">ADA</option>
           <option value="SOL">SOL</option>
           <option value="DOGE">DOGE</option>
+          <option value="XMR">XMR</option>
         </select>
         <i class="material-icons exchange-arrow-icon">arrow_forward</i>
         <select name="currency" class="dropdown currencies-option">

@@ -1,7 +1,7 @@
 const CONFIG = new Config({
   crypto: {
     coin: 'ETH',
-    currency: 'USD',
+    currency: 'EUR',
     refreshIn: 10
   },
   overrideStorage: true, // override localStorage with fixed userconfig values
@@ -26,7 +26,7 @@ const CONFIG = new Config({
     "t": 'todo-list',
     "s": 'search-bar'
   },
-  disabled: [],
+  disabled: ['todo-list'],
   openLastVisitedTab: false,
   tabs: [
     {
