@@ -106,7 +106,6 @@ const CONFIG = new Config({
               url: 'https://studio.youtube.com/channel/UC-AdTc7ALgrNg5uNKH8nweg',
               icon: 'video'
             }
-            // Later, add instagram
           ]
         }
       ]
