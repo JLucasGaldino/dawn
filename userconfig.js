@@ -92,7 +92,7 @@ const CONFIG = new Config({
               url: 'https://awakentomeaning.com/'
             }
           ]
-        }
+        },
         {
           name: 'Sharing',
           links: [
