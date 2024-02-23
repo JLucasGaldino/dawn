@@ -71,7 +71,7 @@ const CONFIG = new Config({
       ]
     },
     {
-      name: 'Via Sana',
+      name: 'Health',
       background_url: 'src/img/banners/bg-6.gif',
       categories: [
         {
