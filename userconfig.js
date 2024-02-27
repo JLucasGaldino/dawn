@@ -68,6 +68,16 @@ const CONFIG = new Config({
           }
         ]
       },
+      {
+        name: 'Documents',
+        links: [
+          {
+            name: 'Proton drive',
+            url: 'https://drive.proton.me/',
+            icon: 'triangle-inverted'
+          }
+        ]
+      }
       ]
     },
     {
@@ -105,6 +115,11 @@ const CONFIG = new Config({
               name: 'YT Channel',
               url: 'https://studio.youtube.com/channel/UC-AdTc7ALgrNg5uNKH8nweg',
               icon: 'video'
+            },
+            {
+              name: 'Instagram',
+              url: 'https://www.instagram.com/',
+              icon: 'brand-instagram'
             }
           ]
         }
